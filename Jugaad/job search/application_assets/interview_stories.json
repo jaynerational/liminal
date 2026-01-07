@@ -1,0 +1,25 @@
+{
+    "stories": [
+        {
+            "theme": "ROI & Analytics",
+            "situation": "Process inefficiencies at AB InBev were impacting the bottom line.",
+            "task": "Identify and execute optimization strategies to capture lost value.",
+            "action": "Conducted deep-dive data analysis on supply chain logistics and implemented data-driven pivots.",
+            "result": "Delivered 838% ROI on project spend."
+        },
+        {
+            "theme": "Revenue & Growth",
+            "situation": "Targeting market expansion for a high-growth initiative.",
+            "task": "Enable significant revenue growth through strategic operations.",
+            "action": "Led cross-functional teams and optimized sales/operations funnel.",
+            "result": "Enabled $928k in additional revenue."
+        },
+        {
+            "theme": "Entrepreneurship & Grit",
+            "situation": "Starting a venture from 0 with no initial capital.",
+            "task": "Secure funding and validate the business model.",
+            "action": "Developed a robust business case and conducted 50+ investor pitches.",
+            "result": "Raised $125k in seed funding."
+        }
+    ]
+}

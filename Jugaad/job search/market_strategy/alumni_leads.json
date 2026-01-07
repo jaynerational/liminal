@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Jhalak Bansal",
+        "company": "McKinsey & Company",
+        "role": "Associate",
+        "alma_mater": "NIT Warangal",
+        "leverage": "Ex-Novartis, ISB",
+        "context": "Consulting Track"
+    },
+    {
+        "name": "Keerthana Alugati",
+        "company": "Amazon",
+        "role": "Supply Chain Manager",
+        "alma_mater": "NIT Warangal",
+        "leverage": "Ex-Zomato",
+        "context": "Global Ops Track"
+    },
+    {
+        "name": "Shivang",
+        "company": "Swiggy",
+        "role": "SDE 3",
+        "alma_mater": "NIT Warangal",
+        "leverage": "Ex-Amazon",
+        "context": "Product/Tech Track"
+    },
+    {
+        "name": "Garga Majumdar",
+        "company": "Google",
+        "role": "Global Head of Program Management",
+        "alma_mater": "IIFT",
+        "leverage": "Ex-McKinsey, BCG, Amazon",
+        "context": "High-Leverage Strategic Lead"
+    },
+    {
+        "name": "Saloni Jain",
+        "company": "Amazon",
+        "role": "Brand Manager",
+        "alma_mater": "IIFT",
+        "leverage": "Ex-Swiggy",
+        "context": "Product/Marketing Track"
+    },
+    {
+        "name": "Ankur Bansal",
+        "company": "Swiggy",
+        "role": "General Manager, Growth",
+        "alma_mater": "XLRI",
+        "leverage": "Ex-BCG",
+        "context": "Consulting/Growth Track"
+    },
+    {
+        "name": "Kushagra Bhardwaj",
+        "company": "Zomato",
+        "role": "Generalist",
+        "alma_mater": "XLRI",
+        "leverage": "Final Year Student (2025)",
+        "context": "Zomato Internal Referral"
+    }
+]

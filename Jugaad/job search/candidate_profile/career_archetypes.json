@@ -1,0 +1,25 @@
+{
+  "archetypes": [
+    {
+      "id": 1,
+      "name": "The Strategic Consultant",
+      "target_firms": ["MBB", "Big 4 Strategy", "Tier-2 Boutique"],
+      "focus": "Analytical rigor, ROI, Process Optimization",
+      "hook": "838% ROI at AB InBev"
+    },
+    {
+      "id": 2,
+      "name": "The Growth APM",
+      "target_firms": ["Big Tech", "Unicorn Startups", "Product-Led Growth Firms"],
+      "focus": "0-to-1 Execution, $125k Fundraising, Revenue Enablement",
+      "hook": "Built and funded from scratch"
+    },
+    {
+      "id": 3,
+      "name": "The Global Ops Lead",
+      "target_firms": ["Amazon", "FMCG Leaders", "Supply Chain Giants"],
+      "focus": "Scale, Efficiency, Global Stakeholder Management",
+      "hook": "Managed $928k revenue enablement"
+    }
+  ]
+}

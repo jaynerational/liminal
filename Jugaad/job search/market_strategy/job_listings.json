@@ -1,0 +1,50 @@
+[
+    {
+        "company": "McKinsey",
+        "role": "Associate / Consultant",
+        "track": "Consulting",
+        "location": "India",
+        "url": "https://www.mckinsey.com/careers/search-jobs/jobs/consultant-37690",
+        "status": "Active"
+    },
+    {
+        "company": "Google",
+        "role": "Product Manager, Creator (YouTube)",
+        "track": "Product Management",
+        "location": "Bengaluru",
+        "url": "https://www.google.com/about/careers/applications/jobs/results?location=India&q=%22Product+Manager%22",
+        "status": "Active"
+    },
+    {
+        "company": "Amazon",
+        "role": "Product Manager / Operations Manager",
+        "track": "Product Management / Global Ops",
+        "location": "India",
+        "url": "https://www.amazon.jobs/content/job-categories/project-program-product-management-non-tech",
+        "status": "Hub Link"
+    },
+    {
+        "company": "Zomato",
+        "role": "Product Manager",
+        "track": "Product Management",
+        "location": "Gurgaon",
+        "url": "https://www.instahyre.com/job-2780-product-manager-at-zomato-gurgaon/",
+        "status": "Active"
+    },
+    {
+        "company": "Swiggy",
+        "role": "Operations Manager",
+        "track": "Global Ops",
+        "location": "India",
+        "url": "https://in.linkedin.com/jobs/swiggy-operations-manager-jobs",
+        "status": "Search Hub"
+    },
+    {
+        "company": "BCG",
+        "role": "Consultant / Project Leader",
+        "track": "Consulting",
+        "location": "India",
+        "url": "https://careers.bcg.com/global/en/locations/india",
+        "status": "Hub Link"
+    }
+]
