@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1_INIT_STACK",
+        "acceptanceCriteria": "Initialize Vite+React+TS project, remove boilerplate, install deps (dexie, lucide-react, d3-force, simplex-noise, html2canvas), create src structure.",
+        "passes": true
+    },
+    {
+        "id": "2_DESIGN_TOKENS",
+        "acceptanceCriteria": "Create index.css with CSS variables for all colors, typography, spacing, and animations defined in AGENTS.md.",
+        "passes": true
+    },
+    {
+        "id": "3_LAYOUT_SHELL",
+        "acceptanceCriteria": "Implement the main application shell with full-height layout, void background, and mobile-responsive container.",
+        "passes": true
+    },
+    {
+        "id": "4_EPHEMERAL_EDITOR",
+        "acceptanceCriteria": "Build the 'Editor' component: centered textarea, DM Sans font, strictly vanilla CSS. Text must exist in state.",
+        "passes": true
+    },
+    {
+        "id": "5_DECAY_LOGIC",
+        "acceptanceCriteria": "Implement visual decay logic: text opacity reduces over 24h period (simulated for dev).",
+        "passes": true
+    },
+    {
+        "id": "6_PURGATORY_PHASES",
+        "acceptanceCriteria": "Implement purgatory phases (WAITING, DRIFTING, FADING, DISSOLVING) based on decay progress. Display current phase visually.",
+        "passes": true
+    },
+    {
+        "id": "7_DEXIE_DATABASE",
+        "acceptanceCriteria": "Set up Dexie.js IndexedDB schema for thoughts. Store content, createdAt, emotion. Auto-save on type with debounce.",
+        "passes": true
+    },
+    {
+        "id": "8_SOLIDIFY_EXPORT",
+        "acceptanceCriteria": "Build 'Solidify' feature: export thought as PNG image (1080x1080 SQUARE, 1080x1920 STORY) with gradient background using html2canvas.",
+        "passes": true
+    },
+    {
+        "id": "9_SPOTLIGHT_BACKGROUND",
+        "acceptanceCriteria": "Implement mouse-following sage-green glow background at 60fps. Smooth animation using requestAnimationFrame.",
+        "passes": true
+    },
+    {
+        "id": "10_VELOCITY_CANVAS",
+        "acceptanceCriteria": "Implement typing speed visualization on background using simplex-noise. Particles react to keystroke frequency.",
+        "passes": true
+    },
+    {
+        "id": "11_EMOTION_DETECTION",
+        "acceptanceCriteria": "Implement keyword-based sentiment analysis to detect emotion (joy, peace, melancholy, anxiety, anger, love, confusion). Store emotion with thought.",
+        "passes": true
+    },
+    {
+        "id": "12_GARDEN_VISUALIZATION",
+        "acceptanceCriteria": "Build 'Living Garden' view: force-directed graph using d3-force showing preserved thoughts as flowers. Emotion-based clustering and procedural flower generation.",
+        "passes": true
+    },
+    {
+        "id": "13_GARDEN_EXPORT",
+        "acceptanceCriteria": "Implement Garden export in SQUARE, STORY, and PRINT (2400x3000) formats.",
+        "passes": true
+    },
+    {
+        "id": "14_LANDING_PAGE",
+        "acceptanceCriteria": "Build cinematic landing page with warp-speed entry transition into the sanctuary.",
+        "passes": true
+    },
+    {
+        "id": "15_FIRST_VISIT_OVERLAY",
+        "acceptanceCriteria": "Implement first-visit overlay with gentle introduction for new users. Show only once (localStorage flag).",
+        "passes": true
+    }
+]
